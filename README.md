@@ -63,15 +63,6 @@ To view the video of the Google Search test:
 
 ![Google Search Test Screenshot](path/to/screenshot.png)
 
-## Contributing
-If you'd like to contribute to this project, please fork the repository and submit a pull request. Make sure to include tests for any new features or bug fixes.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new pull request.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
