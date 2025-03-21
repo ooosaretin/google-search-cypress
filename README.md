@@ -63,10 +63,6 @@ To view the video of the Google Search test:
 
 ![Google Search Test Screenshot](path/to/screenshot.png)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ### Additional tips:
 - **Video/Screenshot Storage:** Ensure the video and screenshots are either added directly to the repo (if small enough) or provide clear instructions on where the user can find them after running the tests (for example, saving them locally or via a cloud storage link).
