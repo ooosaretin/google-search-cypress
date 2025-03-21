@@ -52,22 +52,5 @@ Before running the tests, ensure you have the following installed:
    ```
 
 ### Test Recording
-During the execution of the Cypress test, video recordings and screenshots are generated to capture the behavior of the application. These files are stored in the `cypress/videos/` and `cypress/screenshots/` directories, respectively.
-
-To view the video of the Google Search test:
-1. Navigate to the `cypress/videos/` directory.
-2. Locate the video file corresponding to the test run (e.g., `google-search.spec.js.mp4`).
-3. Play the video to observe the test execution in real-time.
-
-**Example Screenshot of Test Execution:**
-
-![Google Search Test Screenshot](path/to/screenshot.png)
-
-
-### Additional tips:
-- **Video/Screenshot Storage:** Ensure the video and screenshots are either added directly to the repo (if small enough) or provide clear instructions on where the user can find them after running the tests (for example, saving them locally or via a cloud storage link).
-- **Customization:** Adjust any commands or specific details based on your testing setup (e.g., test script names, directories, etc.).
-
-
 https://github.com/user-attachments/assets/fa3d0009-1df8-445b-95e9-b83cb046e479
 
