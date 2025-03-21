@@ -1,6 +1,6 @@
 # Google Search Cypress Tools Automated Test
 
-This repository contains an automated test suite for Google Search using Cypress, along with a video screenshot recording of the test execution. The test checks the functionality of Google Search and ensures that the page behaves as expected.
+This repository contains an automated test suite for Google Search using Cypress, along with a video and screenshot recording of the test execution. The test checks the functionality of Google Search and ensures that the page behaves as expected.
 
 ## Table of Contents
 1. [Overview](#overview)
