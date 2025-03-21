@@ -1,7 +1,3 @@
-To create a clear and informative README file for your GitHub repository containing the video screenshot recording of the Google Search Cypress Tools Automated Test, here’s a structured outline with explanations for each section. You can adjust the details based on your project specifics:
-
----
-
 # Google Search Cypress Tools Automated Test
 
 This repository contains an automated test suite for Google Search using Cypress, along with a video and screenshot recording of the test execution. The test checks the functionality of Google Search and ensures that the page behaves as expected.
