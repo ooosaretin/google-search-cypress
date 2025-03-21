@@ -1,6 +1,6 @@
 # Google Search Cypress Tools Automated Test
 
-This repository contains an automated test suite for Google Search using Cypress, along with a video and screenshot recording of the test execution. The test checks the functionality of Google Search and ensures that the page behaves as expected.
+This repository contains an automated test suite for Google Search using Cypress, along with a video screenshot recording of the test execution. The test checks the functionality of Google Search and ensures that the page behaves as expected.
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -30,11 +30,11 @@ Before running the tests, ensure you have the following installed:
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/google-search-cypress-test.git
+   git clone https://github.com/yourusername/google-search-cypress.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd google-search-cypress-test
+   cd google-search-cypress
    ```
 3. Install the necessary dependencies:
    ```bash
@@ -44,11 +44,11 @@ Before running the tests, ensure you have the following installed:
 ## Usage
 1. To run the tests locally, use the following command:
    ```bash
-   npm run test
+   npm cypress open
    ```
 2. By default, the tests will run in headless mode. If you'd like to see the test execution in a browser window, you can use:
    ```bash
-   npm run test:open
+   npm cypress run --headless
    ```
 
 ### Test Recording
