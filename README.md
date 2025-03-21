@@ -32,7 +32,7 @@ Before running the tests, ensure you have the following installed:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd google-search-cypress
+   cd GoogleTestAutomation
    ```
 3. Install the necessary dependencies:
    ```bash
