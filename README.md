@@ -16,7 +16,7 @@ This project demonstrates how to use [Cypress](https://www.cypress.io/) to perfo
 ## Features
 - Automated testing using Cypress.
 - Search functionality validation on Google Search.
-- Captures video during test execution.
+- **Video recording** of test execution.
 - Detailed error logging for easier debugging.
 - Supports headless and headed modes for testing.
 
